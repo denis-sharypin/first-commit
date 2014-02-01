@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: georgia;
+  font-size: 20px;
+  line-height: 1.5;
+}
+header {
+  background: url(imgs/robocop.jpg);
+}
+header h1 {
+  height: 500px;
+  line-height: 500px;
+  color: red;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 144px;
+  text-align: center;
+  text-shadow: 0 0 0 black;
+}
+section,
+aside {
+  width: 65%;
+  margin: 2em auto;
+}
